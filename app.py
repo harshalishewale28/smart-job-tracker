@@ -5,9 +5,9 @@ from datetime import date, timedelta
 
 import pandas as pd
 import plotly.express as px
-import streamlit as st
+import streamlit as st 
 
-# ---------------- CONFIGURATION ----------------
+# ___---------------- CONFIGURATION ----------------
 
 st.set_page_config(
     page_title="CareerPilot | Job Tracker",
